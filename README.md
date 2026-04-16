@@ -77,7 +77,11 @@ jupyter notebook tiger_vs_jaguar.ipynb
 
 
 💡 Key Learnings
-Understanding CNN feature extraction mechanisms
-Handling image preprocessing pipelines
-Avoiding overfitting using dropout and validation
-Visualizing model performance effectively
+
+1.Understanding CNN feature extraction mechanisms
+
+2.Handling image preprocessing pipelines
+
+3.Avoiding overfitting using dropout and validation
+
+4.Visualizing model performance effectively
