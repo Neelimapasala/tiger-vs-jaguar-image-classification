@@ -1,4 +1,5 @@
 Tiger vs Jaguar Image Classification using Deep Learning (CNN)
+
 📌 Project Overview
 
 This project implements a Deep Learning-based Image Classification model to distinguish between Tiger and Jaguar images using a Convolutional Neural Network (CNN).
@@ -51,26 +52,22 @@ The results demonstrate effective classification capability with strong feature 
 
 (You can update this section with actual accuracy if available.)
 
-📂 Project Structure
-tiger-vs-jaguar-image-classification/
-│
-├── tiger_vs_jaguar.ipynb
-├── requirements.txt
-├── README.md
-└── sample_images/
 
 
 ⚙️ Installation & Usage
 Step 1: Clone the Repository
 git clone https://github.com/yourusername/tiger-vs-jaguar-image-classification.git
 cd tiger-vs-jaguar-image-classification
+
 Step 2: Install Dependencies
 pip install -r requirements.txt
+
 Step 3: Run the Notebook
 jupyter notebook tiger_vs_jaguar.ipynb
 
 
 🔮 Future Enhancements
+
 Implement Transfer Learning (ResNet / VGG16 / EfficientNet)
 Convert model into Flask API for deployment
 Deploy as a Web Application
