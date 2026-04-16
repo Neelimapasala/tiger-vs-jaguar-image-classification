@@ -11,6 +11,7 @@ Computer Vision techniques
 CNN architecture design
 Model evaluation and optimization
 Image preprocessing workflows
+
 🚀 Tech Stack
 Python
 TensorFlow / Keras
@@ -18,6 +19,7 @@ NumPy
 Matplotlib
 OpenCV
 Scikit-learn
+
 🧠 Model Architecture
 
 The CNN model consists of:
@@ -41,10 +43,9 @@ Accuracy and Loss Visualization
 📊 Model Performance
 
 The model was evaluated using:
-
-Accuracy
-Loss Curves
-Validation Metrics
+1. Accuracy
+2. Loss Curves
+3. Validation Metrics
 
 The results demonstrate effective classification capability with strong feature learning from wildlife images.
 
@@ -57,6 +58,8 @@ tiger-vs-jaguar-image-classification/
 ├── requirements.txt
 ├── README.md
 └── sample_images/
+
+
 ⚙️ Installation & Usage
 Step 1: Clone the Repository
 git clone https://github.com/yourusername/tiger-vs-jaguar-image-classification.git
@@ -65,11 +68,15 @@ Step 2: Install Dependencies
 pip install -r requirements.txt
 Step 3: Run the Notebook
 jupyter notebook tiger_vs_jaguar.ipynb
+
+
 🔮 Future Enhancements
 Implement Transfer Learning (ResNet / VGG16 / EfficientNet)
 Convert model into Flask API for deployment
 Deploy as a Web Application
 Improve dataset size for better generalization
+
+
 💡 Key Learnings
 Understanding CNN feature extraction mechanisms
 Handling image preprocessing pipelines
