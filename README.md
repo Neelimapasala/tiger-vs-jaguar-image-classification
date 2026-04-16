@@ -56,7 +56,6 @@ The results demonstrate effective classification capability with strong feature 
 
 ⚙️ Installation & Usage
 Step 1: Clone the Repository
-git clone https://github.com/yourusername/tiger-vs-jaguar-image-classification.git
 cd tiger-vs-jaguar-image-classification
 
 Step 2: Install Dependencies
@@ -68,10 +67,13 @@ jupyter notebook tiger_vs_jaguar.ipynb
 
 🔮 Future Enhancements
 
-Implement Transfer Learning (ResNet / VGG16 / EfficientNet)
-Convert model into Flask API for deployment
-Deploy as a Web Application
-Improve dataset size for better generalization
+1.Implement Transfer Learning (ResNet / VGG16 / EfficientNet)
+
+2.Convert model into Flask API for deployment
+
+3.Deploy as a Web Application
+
+4.Improve dataset size for better generalization
 
 
 💡 Key Learnings
